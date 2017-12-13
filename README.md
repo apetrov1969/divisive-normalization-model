@@ -2,7 +2,9 @@
 
 This repository contains Matlab software associated with the following publication:
 
-**Sawada, T. & Petrov, A. A. (2017). The divisive normalization model of V1 neurons: A comprehensive comparison of physiological data and model predictions. _Journal of Neurophysiology, 118_, xxx-xxx. [doi:10.1152/jn.00821.2016](https://doi.org/10.1152/jn.00821.2016).**
+**[Sawada, T.](http://www.tadamasasawada.com/) & [Petrov, A. A.](http://alexpetrov.com/) (2017). The divisive normalization model of V1 neurons: A comprehensive comparison of physiological data and model predictions. _Journal of Neurophysiology, 118_, 3051-3091. [doi:10.1152/jn.00821.2016](https://doi.org/10.1152/jn.00821.2016).**
+
+The [journal article](./SawadaPetrov17.pdf) is available in PDF (1.5 MB). Copyright restrictions apply.
 
 Copyright (C) 2013-2017 Laboratory for Cognitive Modeling and Computational Cognitive Neuroscience at the Ohio State University, <http://cogmod.osu.edu>.
 
@@ -29,7 +31,7 @@ The `UserManual` directory contains an all-too-short document `UserManual.docx` 
 
 ## Additional Information
 
-The first author -- Dr. Tadamasa Sawada -- presents the highlights of this research in a [YouTube podcast](https://www.youtube.com/watch?v=n5276Nlp16Q).
+The first author -- [Dr. Tadamasa Sawada](http://www.tadamasasawada.com/) -- presents the highlights of this research in a [YouTube podcast](https://www.youtube.com/watch?v=n5276Nlp16Q).
 
 The abstract of the journal article is reproduced below:
 
@@ -40,5 +42,5 @@ The abstract of the journal article is reproduced below:
 We will try to provide basic support, but cannot make any promises.  
 If you discover bugs, please let us know. Thank you!
 
--- Tadamasa Sawada and Alex Petrov  
+-- [Tadamasa Sawada](http://www.tadamasasawada.com/) and [Alex Petrov](http://alexpetrov.com/)  
 2017-11-20
